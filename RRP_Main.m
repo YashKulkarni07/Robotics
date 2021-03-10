@@ -1,4 +1,5 @@
-%% Forward Kinematics for RRP robot
+%% Forward Kinematics for RRP robot based on DH convention
+
 clc;clear all;clc
 %% Graphing necessities 
 grid on
