@@ -1,3 +1,5 @@
+%% Code allows the creation of a 3 link serial manipulator with flexible linkages based on rotation and translation matrices
+
 clc;clear all;clc
 %% Start by creating main coordinate system with red marker
 figure(1)
