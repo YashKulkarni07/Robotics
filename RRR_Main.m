@@ -1,4 +1,5 @@
-%% Forward Kinematics for RRR robot
+%% Forward Kinematics for RRR robot using DH convention 
+
 clc;clear all;clc
 %% Graphing Necessites
 xlabel("x-axis")
